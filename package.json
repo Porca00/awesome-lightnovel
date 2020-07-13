@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "rit",
   "scripts": {
     "start": "docsify start . -c ssr.config.js",
     "deploy": "now -p"
@@ -13,7 +13,7 @@
       "loadSidebar": true,
       "loadNavbar": true,
       "coverpage": true,
-      "name": "docsify"
+      "name": "rit"
     }
   }
 }
