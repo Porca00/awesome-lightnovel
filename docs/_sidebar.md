@@ -14,6 +14,6 @@
 
 * 其他指南
 
-  * [软件推荐](zh-cn/deploy.md)
+  * [软件推荐](recom.md)
   * [更多信息](info.md)
   * [更新记录](changelog.md)
