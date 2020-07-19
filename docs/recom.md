@@ -2,6 +2,7 @@
 阅读器，纯粹阅读
 
 *   厚墨 极简，专注，无广告 各大商店均有下载
+*   静读天下 这个大家都知道
 *   [简单读书](https://www.coolapk.com/apk/com.example.txtreader
 ) TXT阅读器
 
@@ -15,6 +16,10 @@
 )
 *  老子搜书
 * [多多猫](http://ddcat.noear.org/) 已长时间不更新
+
+## 苹果应用
+
+TXT 用 Kindle，其他格式用自带应用
 
 ## 电脑平台
 
