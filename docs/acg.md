@@ -13,9 +13,9 @@
 - [WAIT](https://trace.moe)
 
 ## P站浏览器
-无需科学上网
--[Pixivic](https://pixivic.com/) 有额外付费服务
--[Pixiv-Viewer](https://lab.getloli.com/pixiv-viewer/) 够用就行
+无需科学上网  
+- [Pixivic](https://pixivic.com/) 有额外付费服务  
+- [Pixiv-Viewer](https://lab.getloli.com/pixiv-viewer/) 够用就行
 
 ## 其他
 恕不提供 R18 方法
