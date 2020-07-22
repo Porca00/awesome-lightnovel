@@ -7,10 +7,8 @@
 * 轻小说/漫画互查<sup style="color:red">(new)<sup>
 
   * [查找思路](mindmap.md)
-  * [知一查二](1v2.md)
-  * [漫画查询](website.md)
+  * [漫画/轻小说查询](mangaandln.md)
   * [二次元查询](acg.md)
-  * [轻小说查询](lightnovel.md)
 
 * 其他指南
 
