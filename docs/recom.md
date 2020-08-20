@@ -12,6 +12,7 @@
 *   阅读 强大聚合小说（**网文为主**）应用  [经典下载](https://www.coolapk.com/apk/com.gedoor.monkeybook) | [新版下载](https://www.coolapk.com/apk/256030)
 *   异次元 强大聚合漫画应用 微信公众号搜索 异次元 APP 软件
 *   皮皮喵 强大漫画聚合应用 微信公众号搜索 tips21 
+*   [Tachiyomi](https://github.com/inorichi/tachiyomi/releases) 
 *   [懒猫小说](https://www.coolapk.com/apk/com.youngpower.freenovel
 )
 *  老子搜书
