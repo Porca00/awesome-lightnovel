@@ -9,7 +9,7 @@
 聚合性阅读，类似于小说/漫画 的搜索引擎  
 
 !> 初次使用须手动导入源 
-*   阅读 强大聚合小说（**网文为主**）应用  [新版下载](https://www.coolapk.com/apk/256030)|旧版仍在更新，请去公众号查看
+*   阅读 强大聚合小说（**网文为主**）应用    [新版下载](https://www.coolapk.com/apk/256030)|旧版仍在更新，请去公众号:开源阅读下载
 *   异次元 强大聚合漫画应用 微信公众号搜索 异次元 APP 软件
 *   皮皮喵 强大漫画聚合应用 微信公众号搜索 tips21 
 *   [Tachiyomi](https://github.com/inorichi/tachiyomi/releases) 
