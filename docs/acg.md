@@ -1,6 +1,7 @@
 ## 查二次元图
 以图搜图网站
 - 谷歌、百度、搜狗识图等
+- [Yandex 搜图](https://yandex.com/images/)
 - [IQDB](http://iqdb.org)
 - [ASCII2d](http://www.ascii2d.net)
 - [SauceNao](https://saucenao.com) 搜 Pixiv图 出处效果较好
