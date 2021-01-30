@@ -15,7 +15,7 @@
 
 ## P站浏览器
 无需科学上网  
-- [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) 第三方客户端，国内可访问
+- [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) 第三方客户端，国内可访问
 - [Pixiv-Viewer](https://lab.getloli.com/pixiv-viewer/) 够用就行
 
 ## 其他
