@@ -15,6 +15,7 @@
 
 ## P站浏览器
 无需科学上网  
+- [Pixivic](https://pixivic.net/) 竟然还在国内备案了
 - [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft/releases) 第三方客户端，国内可访问
 - [Pixiv-Viewer](https://lab.getloli.com/pixiv-viewer/) 够用就行
 
