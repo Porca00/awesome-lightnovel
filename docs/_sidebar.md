@@ -3,7 +3,7 @@
   * [提问之前](1.md)
   * [方法集合](2.md)
   * [更多链接](3.md)
-  * [为某些勇士准备的生肉](9.md)<sup style="color:red">(new)<sup>
+  * [为某些勇士准备的生肉<sup style="color:red">(new)<sup>](9.md)
 * 轻小说/漫画互查
 
   * [查找思路](4.md)
